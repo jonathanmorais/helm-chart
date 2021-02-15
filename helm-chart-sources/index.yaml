@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app-potency:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-15T10:41:49.475464186-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 310fb2666c59b4634751823490abcc98558bb644a3c0305a825a0eb254ba1d46
+    name: app-potency
+    type: application
+    urls:
+    - https://jonathanmorais.github.io/helm-chart/app-potency-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-15T10:41:49.474961014-03:00"
